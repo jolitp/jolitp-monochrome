@@ -1,0 +1,21 @@
+{
+    "name": "jolitp-monochrome",
+    "displayName": "jolitp-monochrome",
+    "description": "jolitp's monochrome theme for vscode.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "jolitp monochrome",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jolitp monochrome-color-theme.json"
+            }
+        ]
+    }
+}
